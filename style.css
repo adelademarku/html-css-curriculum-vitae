@@ -1,6 +1,9 @@
-body { width: 50%;  margin-left: auto;
+body {
+    width: 50%;
+    margin-left: auto;
     margin-right: auto;
-    text-align: center; align-content: start;
+    text-align: center;
+    align-content: start;
 }
 
 .introduction {
@@ -13,7 +16,10 @@ body { width: 50%;  margin-left: auto;
     color: #daa502;
     background-color: #daa502
 }
-img{background-position: 50% 50%;}
+
+img {
+    background-position: 50% 50%;
+}
 
 
 h1 {
@@ -30,7 +36,7 @@ h3 {
     font-weight: bold;
 }
 
- 
+
 .fine {
     width: 100%;
     border-top-color: #daa502;
