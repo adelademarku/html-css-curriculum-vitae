@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+.introduction {
+    background-color: #ededed
+}
+
+.endintro { height:2px;border-width:1;
+    color: #daa502;
+    background-color: #daa502
+}
+
+
+
+h1 {
+    font-style: normal;
+}
+
+h3 {
+    color: #daa502;
+}
+
+h4 {
+    font-style: oblique;
+}
+
+
+.fine{width:50%} 
+
