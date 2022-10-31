@@ -12,7 +12,7 @@ body {
 
 .endintro {
     height: 2px;
-    border-width: 1;
+    border: 1px solid;
     color: #daa502;
     background-color: #daa502
 }
@@ -37,7 +37,7 @@ h3 {
 }
 
 
-.fine {
-    width: 100%;
+.fine { 
+    border:1px solid; width:auto
     border-top-color: #daa502;
 }
